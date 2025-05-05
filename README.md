@@ -6,7 +6,6 @@ I'm Vishal, a CSE UG stdudent at NSUT, Delhi, India.
 ## Languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/tleTerror)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/tleTerror)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://github.com/tleTerror)
 [![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://github.com/tleTerror)
 [![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=A8B9CC)](https://github.com/tleTerror)
 
